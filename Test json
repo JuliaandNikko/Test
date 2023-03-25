@@ -1,0 +1,25 @@
+{
+  "id_location": 1001,
+  "products": [
+{
+    "product_article": "DG54321",
+    "product_provider": "Provider1",
+    "quantity": 12,
+    "dimension": "box"
+  },
+{
+    "product_article": "DG54322",
+    "product_provider": "Provider1",
+    "quantity": 20,
+    "dimension": "box"
+  },
+{
+    "product_article": "DG54323",
+    "product_provider": "Provider1",
+    "quantity": 10,
+    "dimension": "box"
+  }
+],
+
+  "culculation_id": "23fg45"
+}
